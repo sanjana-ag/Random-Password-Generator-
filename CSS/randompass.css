@@ -1,0 +1,43 @@
+body{
+    height: 600px;
+    background: -webkit-radial-gradient(circle, rgb(124, 140, 177) 0%, rgba(50,88,136,76) 100%);
+    background: -moz-radial-gradient(circle, rgb(124, 140, 177) 0%, rgba(50,88,136,76) 100%);
+    background: -ms-radial-gradient(circle, rgb(124, 140, 177) 0%, rgba(50,88,136,76) 100%);
+    
+}
+.container{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-size: 3rem;
+}
+.out{
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #2C394B;
+}
+.mybtn{
+    padding: 20px 160px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.pass{
+    width: 400px;
+    color:#fff;
+    font-size: 30px;
+    margin: 20px;
+    background-color:#2C394B;
+    padding: 21px 26px;
+    /* float: left; */
+    border-radius: 5px;
+    margin-left: 55px;
+}
+.in{
+    /* float: right; */
+    padding: 2px;
+    margin: 5px;
+    text-align: center;
+    color: #2C394B;
+    margin-left:-1px;
+}
